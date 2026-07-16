@@ -39,3 +39,5 @@ correction, and sequential testing.
 ### Stack
 
 `Python · PyTorch · HuggingFace · LightGBM · statsmodels · pandas · Postgres · pgvector · FastAPI · Docker`
+
+<sub>Open to applied-ML / data-science roles.</sub>
